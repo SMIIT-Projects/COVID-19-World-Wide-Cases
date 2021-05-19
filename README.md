@@ -19,5 +19,8 @@ Covid-19 Confirmed & death Cases from 03/01/2020 to 17/05/21. This visualization
 ![line plot - Death Cases](https://user-images.githubusercontent.com/80674012/118808115-bf73ba00-b8c6-11eb-8c28-a6b598b703c4.png)
 
 ### Bar plot - Top 10 Confirmed Cases:
+![Bar plot - Top 10 Confirmed Cases](https://user-images.githubusercontent.com/80674012/118808363-124d7180-b8c7-11eb-8d58-59b65a8129be.png)
+
+### Bar plot - Top 10 Death Cases:
 
 
