@@ -9,6 +9,12 @@ Covid-19 Confirmed & death Cases from 03/01/2020 to 17/05/21. This visualization
 ## Coronavirus (COVID-19) Dashboard:
 ![Dashboard](https://user-images.githubusercontent.com/80674012/118807250-ac141f00-b8c5-11eb-9325-850ed0c036a7.png)
 
-## Confirm Cases visualize on Map:
+## Confirmed Cases visualize on Map:
 ![Map](https://user-images.githubusercontent.com/80674012/118807471-fac1b900-b8c5-11eb-8a92-1fcc0bcea056.png)
+
+## Line Plot of Confirmed Cases 
+![line plot - Confirmed Cases](https://user-images.githubusercontent.com/80674012/118807874-7459a700-b8c6-11eb-9351-917b4b006af5.png)
+
+## Line Plot of Death Cases 
+
 
